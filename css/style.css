@@ -250,6 +250,11 @@ h6,
 
 
 /*** Section Title ***/
+.section-title h1.mb-0 {
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+
 .section-title::before {
     position: absolute;
     content: "";
